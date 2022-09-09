@@ -32,7 +32,7 @@ public class App {
         System.out.println(OldMemberList);
         System.out.println(NewMemberList);
 
-        System.out.println(notFoundList);
+        System.out.println(notFoundList);// Will be empty for now ( members dont get added til later)
 
         System.out.println("TESTING COMPARISONS");
 
