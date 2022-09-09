@@ -21,7 +21,7 @@ public class App {
     public static ArrayList<Member> NewMemberList = new ArrayList<Member>();
     public static ArrayList<Member> notFoundList = new ArrayList<Member>();
     public static JSONParser jsonParser = new JSONParser();
-    int NUM = 10; // SET THIS TO PLAYER SIZE EVENTUALLY
+    public static int NUM = 170; // SET THIS TO PLAYER SIZE EVENTUALLY
 
     public static void main(String[] args) throws Exception {
         // JSON parser object to parse read file
