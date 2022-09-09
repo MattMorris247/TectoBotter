@@ -17,9 +17,12 @@ public class App {
     public static final String GREEN = "\u001B[32m";
     public static final String PURP = "\u001B[35m";
     public static final String RED = "\u001B[31m";
-    public static ArrayList<Member> OldMemberList = new ArrayList<Member>();
-    public static ArrayList<Member> NewMemberList = new ArrayList<Member>();
-    public static ArrayList<Member> notFoundList = new ArrayList<Member>();
+    public static ArrayList<Member> OldMemberList = new ArrayList<Member>(); // DATA FROM THE PREVIOUS MONTH
+    public static ArrayList<Member> NewMemberList = new ArrayList<Member>(); // DATA FROM NEW MONTH TO BE CROSS CHECKED
+                                                                             // WITH ... DONT GET CONFUSED WITH
+                                                                             // actualNewMemberList!!!!!1
+    public static ArrayList<Member> notFoundList = new ArrayList<Member>(); // MEMBERS THAT HAVENT BEEN FOUND
+    public static ArrayList<Member> actualNewMember = new ArrayList<Member>(); // ACTUALLY NEW MEMBERS
     public static JSONParser jsonParser = new JSONParser();
     public static int NUM = 170; // SET THIS TO PLAYER SIZE EVENTUALLY
 
@@ -58,7 +61,7 @@ public class App {
                 notFoundList.add(OldMemberList.get(i));
             }
             if (newMember)
-                System.out.println(YELLOW + newUser + GREEN + " is a new Member...added to NewMemberList");
+                System.out.println(YELLOW + newUser + GREEN + " is a new Member...added to actualNewMemberList");
         }
     }
 
