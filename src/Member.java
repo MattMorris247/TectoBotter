@@ -21,8 +21,12 @@ public class Member {
         }
     }
 
-    private String getUser() {
+    public String getUser() {
         return this.rsn;
+    }
+
+    public int getEhp() {
+        return this.ehp;
     }
 
     public int compare(Member mem1, Member mem2) {
