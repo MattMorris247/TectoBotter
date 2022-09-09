@@ -21,6 +21,7 @@ public class App {
     public static ArrayList<Member> NewMemberList = new ArrayList<Member>();
     public static ArrayList<Member> notFoundList = new ArrayList<Member>();
     public static JSONParser jsonParser = new JSONParser();
+    int NUM = 10; // SET THIS TO PLAYER SIZE EVENTUALLY
 
     public static void main(String[] args) throws Exception {
         // JSON parser object to parse read file
@@ -39,7 +40,6 @@ public class App {
             String currentUser = OldMemberList.get(i).getUser();
             boolean found = false;
             boolean newMember = true;
-            int index;
             String newUser = "";
             for (int j = 0; j < NewMemberList.size(); j++) {
                 newUser = NewMemberList.get(j).getUser();
@@ -67,7 +67,6 @@ public class App {
             // Read JSON file
             Object obj = jsonParser.parse(reader);
             JSONArray playerList = (JSONArray) obj;
-            int NUM = 10; // SET THIS TO PLAYER SIZE EVENTUALLY
             for (int i = 0; i < NUM; i++) {
                 // Parsing RSN
                 String player = playerList.get(i).toString();
@@ -101,7 +100,7 @@ public class App {
             // Read JSON file
             Object obj = jsonParser.parse(reader);
             JSONArray playerList = (JSONArray) obj; // PlayerList size = 198
-            int NUM = 10; // SET THIS TO PLAYER SIZE EVENTUALLY
+
             for (int i = 0; i < NUM; i++) { // IF NUM IS GREATER THAN 170 , IT BREAKS ?????
                 // Parsing RSN
                 String player = playerList.get(i).toString();
