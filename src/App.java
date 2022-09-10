@@ -8,6 +8,8 @@ import java.util.Map;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.io.IOException;
+import java.io.PrintStream;
+import java.io.FileOutputStream;
 
 public class App {
     @SuppressWarnings("unchecked")
@@ -27,6 +29,13 @@ public class App {
     public static int playerCount = 0 ; 
     public static int stages[] = {0,5,5,5,5,15,5,5,5,15,5,5,5,15,5,5,5,15,4,6,25} ; 
     public static void main(String[] args) throws Exception {
+        
+   
+        
+        run(); 
+    }
+
+    private static void run(){ 
         // JSON parser object to parse read file
         System.out.println(PURP + "~~~STARTING~~~" + RESET);
         
@@ -42,11 +51,9 @@ public class App {
        
         getEhpChart(); 
         
-        //tests() ;
       
        System.out.println("") ;
     }
-
     public static void getEhpChart(){ 
         for (int i = 0 ; i < NewMemberList.size(); i++ ) { 
             Member mem = NewMemberList.get(i) ; 

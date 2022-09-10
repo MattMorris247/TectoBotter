@@ -1,0 +1,228 @@
+[35m~~~STARTING~~~[0m
+[32mOldDataList [35mhas been created...[0m
+[32mNewDataList [35mhas been created...[0m
+[35mFetching Data...
+[32mFOUND USER=[34mTricky Ri599[35m Tricky Ri599[33m EHP Difference = [32m0[0m
+[33mDawn Summers[31m was not found...[0m
+[32mFOUND USER=[34mChar Zeta[35m Char Zeta[33m EHP Difference = [32m10[0m
+[32mFOUND USER=[34mkarambulance[35m karambulance[33m EHP Difference = [32m4[0m
+[32mFOUND USER=[34mSteve Tobs[35m Steve Tobs[33m EHP Difference = [32m4[0m
+[32mFOUND USER=[34mDaddy Santon[35m Daddy Santon[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mWatzey[35m Watzey[33m EHP Difference = [32m2[0m
+[32mFOUND USER=[34mCheese Toast[35m Cheese Toast[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mDharma Van[35m Dharma Van[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mJedi Sketch[35m Jedi Sketch[33m EHP Difference = [32m8[0m
+[32mFOUND USER=[34mNoduelarena[35m Noduelarena[33m EHP Difference = [32m11[0m
+[32mFOUND USER=[34mshadedwizard[35m shadedwizard[33m EHP Difference = [32m12[0m
+[32mFOUND USER=[34mA I R P O D[35m A I R P O D[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34msivavi[35m sivavi[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mwet bish[35m wet bish[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mYunaij[35m Yunaij[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mSammyGer[35m SammyGer[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mOneCellBrain[35m OneCellBrain[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mass only[35m ass only[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mderisnU[35m derisnU[33m EHP Difference = [32m11[0m
+[33mSaidin Rage[31m was not found...[0m
+[32mFOUND USER=[34mhop rat[35m hop rat[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34m9UNIT[35m 9UNIT[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mAre you well[35m Are you well[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mQPOH[35m QPOH[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mJusti Puller[35m Justi Puller[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mFratty Flows[35m Fratty Flows[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mNahida[35m Nahida[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mFebble[35m Febble[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mbackintheosr[35m backintheosr[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mForegren[35m Foregren[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mG IronNavi[35m G IronNavi[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mg ironconnor[35m g ironconnor[33m EHP Difference = [32m2[0m
+[32mFOUND USER=[34mMaxnefien[35m Maxnefien[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mpushin b[35m pushin b[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mTrapnaps[35m Trapnaps[33m EHP Difference = [32m0[0m
+[33mGIM Ohgodno[31m was not found...[0m
+[32mFOUND USER=[34mlunar dummy[35m lunar dummy[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mtruucas[35m truucas[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mHow 2 Do It[35m How 2 Do It[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mfe holy[35m fe holy[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mLnomo[35m Lnomo[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mMidase[35m Midase[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mDajavinator[35m Dajavinator[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mhius[35m hius[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mZxt[35m Zxt[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mAkirametro[35m Akirametro[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mexivs[35m exivs[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mrecited[35m recited[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mElvard[35m Elvard[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mClapMaster4K[35m ClapMaster4K[33m EHP Difference = [32m3[0m
+[32mFOUND USER=[34mCyclogy[35m Cyclogy[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mdigital mii[35m digital mii[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mxshaggyx42q[35m xshaggyx42q[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mBoater lad[35m Boater lad[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mIoana81[35m Ioana81[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mTRUE J0NN3[35m TRUE J0NN3[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mScumped[35m Scumped[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mrayj50[35m rayj50[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mKapesjap[35m Kapesjap[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mmay syn[35m may syn[33m EHP Difference = [32m15[0m
+[32mFOUND USER=[34mritari rupu[35m ritari rupu[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mC osmic[35m C osmic[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mAxei0333[35m Axei0333[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mGershk[35m Gershk[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mComfy hug[35m Comfy hug[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mgi lockeylm[35m gi lockeylm[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mSirsafealot1[35m Sirsafealot1[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34maim player[35m aim player[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mdillwholer[35m dillwholer[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mStonerling[35m Stonerling[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mTaavi246[35m Taavi246[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mxxii viii[35m xxii viii[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mlDFC[35m lDFC[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mGive cuddles[35m Give cuddles[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mTech Fluke[35m Tech Fluke[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mgundledorf[35m gundledorf[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mHi Fluke[35m Hi Fluke[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mDied4times[35m Died4times[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mUnfimilarsoc[35m Unfimilarsoc[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34me xamined[35m e xamined[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mbliblies[35m bliblies[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34msivari[35m sivari[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mE xaminer[35m E xaminer[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mwydstepbr096[35m wydstepbr096[33m EHP Difference = [32m5[0m
+[32mFOUND USER=[34mPatenak[35m Patenak[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mFrostyF7[35m FrostyF7[33m EHP Difference = [32m9[0m
+[32mFOUND USER=[34miron bhunda[35m iron bhunda[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mBhunds[35m Bhunds[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mcloudpiercer[35m cloudpiercer[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mtiprulesfoo2[35m tiprulesfoo2[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mJungle Kids[35m Jungle Kids[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mcraankit[35m craankit[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mUrNanOnKet[35m UrNanOnKet[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mratiowo[35m ratiowo[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mTheSocksGuy[35m TheSocksGuy[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mi dl[35m i dl[33m EHP Difference = [32m6[0m
+[32mFOUND USER=[34mBlackSpindle[35m BlackSpindle[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mGotcha254[35m Gotcha254[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mBelgiumrockz[35m Belgiumrockz[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mAldrete[35m Aldrete[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mslaughtermo3[35m slaughtermo3[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mRagesfury[35m Ragesfury[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mG IronSlay[35m G IronSlay[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34m0wns[35m 0wns[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mminus 1 tbow[35m minus 1 tbow[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mbase99s[35m base99s[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mFelrush[35m Felrush[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mPvM b4 PvP[35m PvM b4 PvP[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mAbner Wesley[35m Abner Wesley[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mkiri2kun[35m kiri2kun[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34msparkyyrs[35m sparkyyrs[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mFkAgain[35m FkAgain[33m EHP Difference = [32m-5[0m
+[32mFOUND USER=[34mitachi op[35m itachi op[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mImtheAnimal[35m ImtheAnimal[33m EHP Difference = [32m7[0m
+[32mFOUND USER=[34mlegends5292[35m legends5292[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mToru Siil[35m Toru Siil[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mSectorsempra[35m Sectorsempra[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mNeed Numbers[35m Need Numbers[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mAmaya181[35m Amaya181[33m EHP Difference = [32m3[0m
+[32mFOUND USER=[34mmetascap3[35m metascap3[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mmcneil69[35m mcneil69[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mDreamary[35m Dreamary[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mSpringtime[35m Springtime[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mPeaceSeekerr[35m PeaceSeekerr[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mdvd bnjmn[35m dvd bnjmn[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34msingled[35m singled[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mSwiim Shady[35m Swiim Shady[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mtsakuu[35m tsakuu[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mCe Men[35m Ce Men[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mDinhy b[35m Dinhy b[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mdank tardis[35m dank tardis[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mPacoLoveTaco[35m PacoLoveTaco[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mPVM Lewie[35m PVM Lewie[33m EHP Difference = [32m2[0m
+[32mFOUND USER=[34mQPOB[35m QPOB[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mkokatheking[35m kokatheking[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mJessikaaaa[35m Jessikaaaa[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mIlikefishlip[35m Ilikefishlip[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mMiniToast[35m MiniToast[33m EHP Difference = [32m2[0m
+[32mFOUND USER=[34mRayJ50 Fe[35m RayJ50 Fe[33m EHP Difference = [32m2[0m
+[32mFOUND USER=[34mii moz ii[35m ii moz ii[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34ma sweat[35m a sweat[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mlennonml[35m lennonml[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mCG Addict[35m CG Addict[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mSteve Tombs[35m Steve Tombs[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34millia golem[35m illia golem[33m EHP Difference = [32m3[0m
+[32mFOUND USER=[34mq p me[35m q p me[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mXfers[35m Xfers[33m EHP Difference = [32m0[0m
+[33mdead user[31m was not found...[0m
+[32mFOUND USER=[34mFlawlessJM[35m FlawlessJM[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mdajajajalt[35m dajajajalt[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mking777[35m king777[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mZukHelmVenny[35m ZukHelmVenny[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mosrs papa[35m osrs papa[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mvita auriol[35m vita auriol[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mThis MyCave[35m This MyCave[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mtaftmasta[35m taftmasta[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mGundiddily[35m Gundiddily[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mTripleStunnn[35m TripleStunnn[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mt godzilla1[35m t godzilla1[33m EHP Difference = [32m7[0m
+[32mFOUND USER=[34mJPegLeg[35m JPegLeg[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mruney124[35m runey124[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mGiM Chiken[35m GiM Chiken[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mPhantoon15[35m Phantoon15[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mlvlmiguel[35m lvlmiguel[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mHeretics[35m Heretics[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mAxel0333[35m Axel0333[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mpap D[35m pap D[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mxpk1ng42[35m xpk1ng42[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mChhig[35m Chhig[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mZ4G[35m Z4G[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mm l l r[35m m l l r[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mhardbruce[35m hardbruce[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mPloys[35m Ploys[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mAbyssless[35m Abyssless[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mWintis[35m Wintis[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mveternalv[35m veternalv[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mBeersAndKush[35m BeersAndKush[33m EHP Difference = [32m1[0m
+[32mFOUND USER=[34mNabua[35m Nabua[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mTanz Helm[35m Tanz Helm[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mSirRanHerDwn[35m SirRanHerDwn[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mreapz[35m reapz[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34marthofootjob[35m arthofootjob[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34msic sin[35m sic sin[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mDawn Winters[35m Dawn Winters[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mksd[35m ksd[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mDirty BB[35m Dirty BB[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mrestless rng[35m restless rng[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mElderleigh[35m Elderleigh[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34msneeekydee[35m sneeekydee[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mha12db0dy[35m ha12db0dy[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mvinteo[35m vinteo[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mI ul[35m I ul[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mLil Jesus 7[35m Lil Jesus 7[33m EHP Difference = [32m0[0m
+[32mFOUND USER=[34mHelltamer[35m Helltamer[33m EHP Difference = [32m3[0m
+[32mFOUND USER=[34mRennie Kim[35m Rennie Kim[33m EHP Difference = [32m53[0m
+[32mFOUND USER=[34mJohnyTrash[35m JohnyTrash[33m EHP Difference = [32m0[0m
+[33m4500 dry[31m was not found...[0m
+[33mraidenizer[32m is a new member...[0m
+[33mVoikko[32m is a new member...[0m
+[33mxumshot[32m is a new member...[0m
+[35m==DEBUG INFO OVER===[0m
+[35m
+
+~~Displaying Info~~
+[0m
+[34mPrevious Player Count[0m = [33m198[0m
+[34mCurrent  Player Count[0m = [31m196[0m
+
+Players not Found ([31m5[0m) :[0m
+[[31mDawn Summers[0m, [31mSaidin Rage[0m, [31mGIM Ohgodno[0m, [31mdead user[0m, [31m4500 dry[0m]
+
+Players added ([32m3[0m) :[0m
+[[32mraidenizer[0m, [32mVoikko[0m, [32mxumshot[0m]
+
+[33mChar Zeta[0m has advanced from Stage [34m8[0m to [34m9[0m...[32m +5[0m points!
+[33mkarambulance[0m has advanced from Stage [34m8[0m to [34m9[0m...[32m +5[0m points!
+[33mNoduelarena[0m has advanced from Stage [34m6[0m to [34m7[0m...[32m +5[0m points!
+[33mderisnU[0m has advanced from Stage [34m4[0m to [34m5[0m...[32m +5[0m points!
+[33mmay syn[0m has advanced from Stage [34m2[0m to [34m3[0m...[32m +5[0m points!
+[33mRennie Kim[0m has advanced from Stage [34m0[0m to [34m3[0m...[32m +10[0m points!
+[33mFrostyF7[0m has advanced from Stage [34m1[0m to [34m2[0m...[32m +5[0m points!
+[33mi dl[0m has advanced from Stage [34m1[0m to [34m2[0m...[32m +5[0m points!
+
