@@ -2,6 +2,7 @@ public class Member {
     private String rsn;
     private int ehp;
     private boolean type;
+    private int ehpDifference; 
     public static final String BLUE = "\u001B[34m";
     public static final String RESET = "\033[0m";
     public static final String YELLOW = "\u001B[33m";
@@ -10,7 +11,8 @@ public class Member {
     public Member(String username, int gained, boolean typer) {
         rsn = username;
         ehp = gained;
-        type = typer;
+        type = typer; // OLD = FALSE , NEW = TRUE  
+        ehpDifference=  0 ;  //is set during runData()  (NOT CONSTRUCTOR) 
     }
 
     public String toString() {
@@ -20,9 +22,14 @@ public class Member {
             return (PURP + rsn + RESET + " " + YELLOW + ehp + RESET);
         }
     }
-
+    public void setDiff(int num ) { 
+        ehpDifference=num ; 
+    }
     public String getUser() {
         return this.rsn;
+    }
+    public int getDiff() {
+        return this.ehpDifference;
     }
 
     public int getEhp() {
