@@ -33,72 +33,50 @@ public class App {
         createLists(); 
         getData() ; 
         System.out.println(PURP + "==DEBUG INFO OVER===" + RESET);
+    
+        System.out.println(PURP + "\n\n~~Displaying Info~~\n" + RESET);
         printPlayerCounts() ; 
 
         printNotFoundList(); 
         printNewMemberList(); 
        
-        for ( int i = 0 ; i < NewMemberList.size(); i++) { 
-            int hours = NewMemberList.get(i).getEhp() ; 
-            int stage = getStage(hours) ;
-            System.out.println(GREEN + hours + " "+ YELLOW + stage) ; 
-        }
-
+        getEhpChart(); 
+        
         //tests() ;
-        System.out.println(stages.length);
-    
       
-       
+       System.out.println("") ;
     }
 
-
-    public static int getStage(int ehp) { 
-        if (ehp < 10)
-        return 0 ; 
-        if (ehp < 25)
-        return 1; 
-        if (ehp < 50)
-        return 2;
-        if (ehp < 75)
-        return 3;
-        if (ehp <100) 
-        return 4; 
-        if (ehp <125) 
-        return 5;
-        if (ehp <150)
-        return 6;
-        if(ehp <175) 
-        return 7;
-        if (ehp <200 ) 
-        return 8;
-        if (ehp < 225) 
-        return 9 ;
-        if (ehp < 250) 
-        return 10;
-        if (ehp < 275) 
-        return 11;
-        if (ehp < 300)
-        return 12;
-        if (ehp <325) 
-        return 13;
-        if (ehp <350) 
-        return 14;
-        if (ehp <375)
-        return 15;
-        if (ehp <400)
-        return 16;
-        if (ehp <425) 
-        return 17;
-        if (ehp <450)
-        return 18; 
-        if (ehp <475)
-        return 19; 
-        if (ehp <500) 
-        return 20; 
-
-        else
-        return 0 ;
+    public static void getEhpChart(){ 
+        for (int i = 0 ; i < NewMemberList.size(); i++ ) { 
+            Member mem = NewMemberList.get(i) ; 
+            String rsn = mem.getUser() ; 
+            int stage  = mem.getStage() ; 
+            if (stage > 0) { //TO REMOVE ALL THE 0 BOYS 
+                for ( int j = 0 ; j <OldMemberList.size(); j++) { 
+                    Member otherMem = OldMemberList.get(j) ; 
+                    String otherRsn = otherMem.getUser(); 
+                    int otherStage = otherMem.getStage(); 
+                    if (rsn.equals(otherRsn)){ 
+                        if (stage > otherStage) {
+                           int points =  getGainedPoints(otherStage,stage) ; 
+                            System.out.print( YELLOW + rsn + RESET +" has advanced from Stage " + BLUE + otherStage + RESET + " to " + BLUE + stage + RESET + "...") ; 
+                            System.out.print(GREEN + " +"+points + RESET +" points!"+"\n" ) ;
+                        }
+                    }
+                }
+           }
+        }
     }
+
+    private static int getGainedPoints(int startStage, int endStage){      
+        int points = 0 ; 
+        for ( int i = startStage; i < endStage; i++) { 
+            points = points + stages[i]; 
+        }
+        return points; 
+    }
+   
     public static void tests() { 
         System.out.println("=====TESTING====") ; 
         int ehp = 0 ; 
@@ -167,7 +145,7 @@ public class App {
                     newUser= false; 
             }
             if(newUser) { 
-                System.out.println(YELLOW + currentUser + GREEN + " is a new..." + RESET);
+                System.out.println(YELLOW + currentUser + GREEN + " is a new member..." + RESET);
                 actualNewMember.add(NewMemberList.get(i)); 
             } 
         }
@@ -185,6 +163,8 @@ public class App {
                 if (currentUser.equals(updatedUser)) {
                     found = true;
                     diff = NewMemberList.get(j).getEhp() - OldMemberList.get(i).getEhp();
+                    System.out.println(GREEN + "FOUND USER=" + BLUE + currentUser + PURP + " " + updatedUser + YELLOW
+                            + " EHP Difference = " + GREEN + diff + RESET);
                     NewMemberList.get(j).setDiff(diff);
                 }
             }

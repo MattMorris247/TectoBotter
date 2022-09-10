@@ -14,9 +14,9 @@ public class Member {
         ehp = gained;
         type = typer; // OLD = FALSE , NEW = TRUE  
         ehpDifference=  0 ;  //is set during runData()  (NOT CONSTRUCTOR) 
-        stageIndex = getStage(); 
+        stageIndex = setStage(); 
     }
-    private int getStage() { 
+    private int setStage() { 
         if (ehp < 10)
         return 0 ; 
         if (ehp < 25)
@@ -79,6 +79,10 @@ public class Member {
     }
     public int getDiff() {
         return this.ehpDifference;
+    }
+
+    public int getStage() {
+        return this.stageIndex; 
     }
 
     public int getEhp() {
