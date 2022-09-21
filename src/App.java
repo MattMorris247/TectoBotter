@@ -253,7 +253,7 @@ public class App {
     }
 
     private static void createNewDataList() {
-        try (FileReader reader = new FileReader("src/newData.json")) { // Replace w NewData.json
+        try (FileReader reader = new FileReader("src/testData.json")) { // Replace w NewData.json
 
             // Read JSON file
             Object obj = jsonParser.parse(reader);
