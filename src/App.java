@@ -20,6 +20,8 @@ public class App {
     public static final String PURP = "\u001B[35m";
     public static final String RED = "\u001B[31m";
 
+    // FOR NOVEMBER, DO TEST DATA-> NOVEMBER 1st... Check player messages ...
+
     public static final String previousMonth = "playerData/Sept1st.json";
     public static final String newMonth = "playerData/October1st.json";
 
