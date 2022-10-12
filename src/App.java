@@ -20,8 +20,8 @@ public class App {
     public static final String PURP = "\u001B[35m";
     public static final String RED = "\u001B[31m";
 
-    public static final String previousMonth = "src/September1st.java";
-    public static final String newMonth = "src/October1st.java";
+    public static final String previousMonth = "playerData/Sept1st.json";
+    public static final String newMonth = "playerData/October1st.json";
 
     public static ArrayList<Member> OldMemberList = new ArrayList<Member>(); // DATA FROM THE PREVIOUS MONTH
     public static ArrayList<Member> NewMemberList = new ArrayList<Member>(); // DATA FROM NEW MONTH TO BE CROSS CHECKED
@@ -219,7 +219,7 @@ public class App {
     }
 
     private static void createOldDataList() {
-        try (FileReader reader = new FileReader("src/oldData.json")) {
+        try (FileReader reader = new FileReader(previousMonth)) {
             // Read JSON file
             Object obj = jsonParser.parse(reader);
             JSONArray playerList = (JSONArray) obj;
@@ -253,7 +253,7 @@ public class App {
     }
 
     private static void createNewDataList() {
-        try (FileReader reader = new FileReader("src/testData.json")) { // Replace w NewData.json
+        try (FileReader reader = new FileReader(newMonth)) { // Replace w NewData.json
 
             // Read JSON file
             Object obj = jsonParser.parse(reader);
