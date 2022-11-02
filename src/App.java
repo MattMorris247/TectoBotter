@@ -22,8 +22,8 @@ public class App {
 
     // FOR NOVEMBER, DO TEST DATA-> NOVEMBER 1st... Check player messages ...
 
-    public static final String previousMonth = "playerData/Sept1st.json";
-    public static final String newMonth = "playerData/October1st.json";
+    public static final String previousMonth = "playerData/testData.json";
+    public static final String newMonth = "playerData/November1st.json";
 
     public static ArrayList<Member> OldMemberList = new ArrayList<Member>(); // DATA FROM THE PREVIOUS MONTH
     public static ArrayList<Member> NewMemberList = new ArrayList<Member>(); // DATA FROM NEW MONTH TO BE CROSS CHECKED
